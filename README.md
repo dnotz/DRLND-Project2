@@ -2,7 +2,7 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
 
-# Udacity Deep Reinforcement Learning Nanodegree. Project 1: Continuous Control
+# Udacity Deep Reinforcement Learning Nanodegree. Project 2: Continuous Control
 
 ## Introduction
 
