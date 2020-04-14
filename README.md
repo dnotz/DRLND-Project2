@@ -20,7 +20,7 @@ For this project, two separate versions of the Unity environment are provided:
 - The first version contains a single agent.
 - The second version contains 20 identical agents, each with its own copy of the environment.  
 
-We are solving the first agent of the environment with a single agent. The task is episodic, and in order to solve the environment, the agent must get an average score of +30 over 100 consecutive episodes.
+We are solving the second version of the environment with 20 parallel agents. The task is episodic, and in order to solve the environment, the agents must get an average score of +30 over 100 consecutive episodes and over all agents.
 
 ### Getting Started
 
